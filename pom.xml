@@ -115,7 +115,6 @@
         </executions>
       </plugin>
     </plugins>
-    <finalName>quarkus-product-image</finalName>
   </build>
   <profiles>
     <profile>
